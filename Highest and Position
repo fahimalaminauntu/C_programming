@@ -1,4 +1,4 @@
-//Highest and Position
+
 #include<stdio.h>
 int main()
 {
